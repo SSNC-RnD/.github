@@ -1,1 +1,3 @@
-# .github
+# SSNC RnD
+
+테스트 중입니다.
