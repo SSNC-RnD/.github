@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Breezeway" src="https://raw.githubusercontent.com/SSNC-RnD/.github/main/profile/breezeway_logo.png" width="360">
+<img alt="Breezeway" src="https://raw.githubusercontent.com/SSNC-RnD/.github/main/profile/breezeway_logo.png" width="260">
 
 ### AI-Driven Security Experiences for the \*.ONE Platform
 
