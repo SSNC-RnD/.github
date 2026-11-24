@@ -1,15 +1,15 @@
-## 오아시스 🌈
+<div align="center">
 
-앗!! 해당 파일을 작성 중입니다.  
-잠시만 기다려주세요 🙋‍♀️
+# Breezeway
 
-<!--
+**AI 기반 보안 운영 플랫폼, *.ONE**
 
-**Here are some ideas to get you started:**
+[웹사이트](https://breezeway.one)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
+
+---
+
+Breezeway는 AI 기반 보안 운영을 위한 *.ONE 플랫폼입니다. 반복적인 보안 운영 업무를 자동화해, 보안팀이 더 가치 있는 판단과 대응에 집중할 수 있도록 돕습니다.
+
+<sub>English: Breezeway is the *.ONE platform for AI-driven security operations, automating repetitive security work so teams can focus on higher-value decisions. Learn more at [breezeway.one](https://breezeway.one).</sub>
